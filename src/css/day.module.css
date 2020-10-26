@@ -19,6 +19,7 @@
 .day p {
   line-height: 2;
   transition: var(--mainTransition);
+  display: inline;
 }
 @media screen and (min-width: 992px) {
   .day h4 {
